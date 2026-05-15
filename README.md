@@ -37,7 +37,7 @@ Document Ingestion → LLM Analysis → Semantic Matching → Optimization Engin
 ## Installation
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/HireReady.git
+git clone https://github.com/ishika-bhad/HireReady.git
 cd HireReady
 ```
 
